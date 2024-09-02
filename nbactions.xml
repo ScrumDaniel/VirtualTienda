@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-Ejecutar con 2.0.9</actionName>
+            <displayName>Ejecutar con 2.0.9</displayName>
+            <goals>
+                <goal>org.springframework.boot:spring-boot-maven-plugin:2.0.9.RELEASE:run</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-Ejecutar con 2.7.3</actionName>
+            <displayName>Ejecutar con 2.7.3</displayName>
+            <goals>
+                <goal>org.springframework.boot:spring-boot-maven-plugin:2.7.3:run</goal>
+            </goals>
+        </action>
+    </actions>
